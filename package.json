@@ -1,0 +1,15 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "contact-form-with-emailjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remcoj89?tab=repositories"
+  },
+  "author": "Remco Jonk",
+  "license": "ISC"
+}
