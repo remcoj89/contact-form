@@ -11,5 +11,8 @@
     "url": "https://github.com/remcoj89?tab=repositories"
   },
   "author": "Remco Jonk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0"
+  }
 }

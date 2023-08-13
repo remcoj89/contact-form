@@ -51,12 +51,12 @@ h3 {
 }
 
 
-label, input, textarea {
+label, .input__field {
     display: block;
     border-radius: 1rem;
 }
 
-input, textarea {
+.input__field  {
     margin-bottom: 1.6rem;
     padding: .8rem;
     border:solid 1px black;
@@ -64,11 +64,11 @@ input, textarea {
     transition: all 0.3s;
 }
 
- textarea, input:valid {
+.input__field:valid {
     border-color: green;
 }
 
-textarea, input:invalid {
+.input__field:invalid {
     border-color: red;
 }
 
