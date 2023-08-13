@@ -5,9 +5,9 @@
 
 //  Getting elements
 const form = document.getElementById('contact__form');
-const userName = document.getElementById('user_name');
-const userEmail = document.getElementById('user_email');
-const userMessage = document.getElementById('user_message');
+const userName = document.getElementById('user_name').value;
+const userEmail = document.getElementById('user_email').value;
+const userMessage = document.getElementById('user_message').value;
 const messageContainer = document.querySelector('.message-container');
 const message = document.getElementById('message');
 
